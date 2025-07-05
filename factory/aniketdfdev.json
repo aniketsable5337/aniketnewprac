@@ -1,0 +1,9 @@
+{
+	"name": "aniketdfdev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae395a0b-829c-4835-9c14-4daa8341ea40",
+		"tenantId": "38b2a58a-cf0e-431c-a20e-c163cf3935a3"
+	}
+}
